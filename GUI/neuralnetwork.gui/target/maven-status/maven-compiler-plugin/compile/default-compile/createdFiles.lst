@@ -1,0 +1,10 @@
+org/unical/neuralnetwork/converter/SUMOParser$1.class
+org/unical/neuralnetwork/gui/App.class
+org/unical/neuralnetwork/converter/ParserFactory.class
+org/unical/neuralnetwork/converter/ParsingException.class
+org/unical/neuralnetwork/converter/DGSConverter.class
+org/unical/neuralnetwork/converter/SUMOParser.class
+org/unical/neuralnetwork/converter/DGSBuilder.class
+org/unical/neuralnetwork/converter/Builder.class
+org/unical/neuralnetwork/converter/Parser.class
+org/unical/neuralnetwork/converter/SUMOParser$XMLIterator.class

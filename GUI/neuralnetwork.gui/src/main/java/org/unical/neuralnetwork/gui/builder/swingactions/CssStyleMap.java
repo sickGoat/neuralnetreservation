@@ -1,0 +1,8 @@
+package org.unical.neuralnetwork.gui.builder.swingactions;
+
+
+public class CssStyleMap {
+
+	public static final String STYLE = "node { 	size: 0px; 	fill-color: #777; 	text-mode: hidden; 	z-index: 0; }  edge { 	shape: line; 	fill-color: #222; }  edge.grid_rectangle { 	fill-color: black; 	size: 2px; }  edge.grid_normal { 	fill-color: gray; }  edge.grid_hide { 	fill-color: rgba(0,0,0,0); }  edge.grid_foretold { 	fill-color: rgb(10,142,66); 	size: 1.8; }  edge.grid_no_foretold { 	fill-color: rgb(255, 6, 30); 	size: 1.8; }  edge.grid_waste { 	fill-color: rgb(249, 157, 49); 	size: 1.8; }";
+	
+}
